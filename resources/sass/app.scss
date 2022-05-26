@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import "signin"; //この行を追加する
+@import "signup"; //この行を追加する
+@import "header"; //この行を追加する
+@import "list_new"; //この行を追加する
+@import "list_edit"; //この行を追加する
+@import "top"; //この行を追加する
+
+@import "card_new"; //この行を追加する 4-3
+@import "card_edit"; //この行を追加する
+@import "card_show"; //この行を追加する
+@import "button"; //この行を追加する
+
